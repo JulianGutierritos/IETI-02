@@ -11,6 +11,11 @@
 
 
 
+## Credenciales: 
+    - email: julian@mail.com
+    - contraseña: 1234
+
+
 React project using Material-UI library.
 
 ## Part 1: Create a Login Component
